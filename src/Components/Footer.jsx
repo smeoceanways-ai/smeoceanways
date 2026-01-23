@@ -125,7 +125,7 @@ export const Footer = () => {
             {/* SME Oceanways Logo */}
             <div style={styles.logoWrapperv2}>
               <img
-                src="/image/smeLogo.jpg"
+                src="/image/logos.png"
                 alt="SME Oceanways Logo"
                 style={styles.logo}
               />

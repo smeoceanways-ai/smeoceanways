@@ -273,7 +273,7 @@ export function ContactPage() {
 
       <iframe
         title="SME Enterprises Location"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3694.0220897128343!2d70.8033725!3d22.201266800000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395835e7bcdc70a3%3A0x42436db1e1611995!2sSME%20ENTERPRISES!5e0!3m2!1sen!2sin!4v1768487536192!5m2!1sen!2sin"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3694.022855407413!2d70.8033725!3d22.201237699999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x82f89ffa318eb90d%3A0x775a0110daaf432c!2sSME%20Oceanways!5e0!3m2!1sen!2sin!4v1769187695436!5m2!1sen!2sin"
         width="100%"
         height="250px"
         style={{ border: 0 }}
